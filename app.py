@@ -6,3 +6,7 @@ def addition(x,y):
 
 def subsraction(x,y):
     return x-y
+
+
+def divission(a,b):
+    return a/b
