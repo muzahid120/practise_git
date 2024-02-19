@@ -1,7 +1,7 @@
 print('hello wolrd!')
 
-def addition(x,y):
-    return x+y
+def addition(x,y,d):
+    return x+y+d
 
 
 def subsraction(x,y):
